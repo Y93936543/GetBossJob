@@ -1,0 +1,2 @@
+# GetBossJob
+Python爬虫爬去Boss直聘重庆地区iOS职位信息
