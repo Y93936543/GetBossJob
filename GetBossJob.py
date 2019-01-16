@@ -1,4 +1,4 @@
-# coding:utf-8  fxb_qzyx@163.com
+# coding:utf-8  mrleaf@vip.qq.com
 
 """
     爬取boss直聘重庆地域的ios岗位信息(提取详情页的数据)
